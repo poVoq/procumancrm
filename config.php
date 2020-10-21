@@ -301,7 +301,7 @@ $sugar_config = array (
   'import_max_execution_time' => 3600,
   'import_max_records_per_file' => 100,
   'import_max_records_total_limit' => '',
-  'installer_locked' => true,
+  'installer_locked' => false,
   'jobs' => 
   array (
     'min_retry_interval' => 30,
